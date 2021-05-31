@@ -23,12 +23,12 @@
 hs_err_pid*
 
 #IDE Files
-**/.project
-**/.classpath
-**/mvnw
-**/mvnw.cmd
-**/HELP.md
-**/bin/
-**/.settings/
-**/.mvn/
-**/target/
+.project
+.classpath
+mvnw
+mvnw.cmd
+HELP.md
+bin/
+.settings/
+.mvn/
+target/
