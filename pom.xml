@@ -10,10 +10,13 @@
 	<description>商城-聚合服务</description>
 
 	<modules>
+		<module>mymall-common</module>
 		<module>mymall-coupon</module>
 		<module>mymall-member</module>
 		<module>mymall-order</module>
 		<module>mymall-product</module>
 		<module>mymall-ware</module>
+		<module>renren-fast</module>
+		<module>renren-generator</module>
 	</modules>
 </project>
